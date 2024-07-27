@@ -1,0 +1,3 @@
+D:/Clion projects after april 15/341 Project 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Clion projects after april 15/341 Project 3/cmake-build-debug/CMakeFiles/341_Project_3.dir
+D:/Clion projects after april 15/341 Project 3/cmake-build-debug/CMakeFiles/edit_cache.dir

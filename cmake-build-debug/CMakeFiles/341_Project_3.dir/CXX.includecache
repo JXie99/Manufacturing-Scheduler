@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion projects after april 15/341 Project 3/main.cpp
+iostream
+-
+mqueue.h
+D:/Clion projects after april 15/341 Project 3/mqueue.h
+ctime
+-
+
+D:/Clion projects after april 15/341 Project 3/mqueue.cpp
+mqueue.h
+D:/Clion projects after april 15/341 Project 3/mqueue.h
+
+D:/Clion projects after april 15/341 Project 3/mqueue.h
+stdexcept
+-
+iostream
+-
+string
+-
+
